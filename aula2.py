@@ -1,0 +1,5 @@
+print(type(123))
+print(type('vini'))
+print(type(10.1 ))
+print(type(False))
+print(bool('')+4)
